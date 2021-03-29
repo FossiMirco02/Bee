@@ -1,0 +1,12 @@
+//funzioni per ogni elemento
+
+/*
+function checkboxall() {
+    if (document.querySelector('#maincheckbox').checked) {
+        for (var i = 0; i < numeroitem; i++)
+            document.querySelector('#checkbox' + i).innerHTML = true;
+    } else {
+        for (var i = 0; i < numeroitem; i++)
+            document.querySelector('#checkbox' + i).innerHTML = false;
+    }
+}*/
